@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Esat_Esatisfaction",
+    "name": "OpenMageModuleFostering\/Esat_Esatisfaction",
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
     "description": "An extension in order to add e-satisfaction functionality in your magento instance.",
     "authors": [
-    {
-        "name": "e-satisfaction",
-        "email": "info@e-satisfaction.com"
-    }
-],
+        {
+            "name": "e-satisfaction",
+            "email": "info@e-satisfaction.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
